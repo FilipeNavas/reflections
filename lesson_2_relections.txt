@@ -6,6 +6,11 @@ Lesson 2 Reflection
 - Git status -> used to see the status of a repository
 
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+- How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It's a temporary area wheere u put the files to be comitted.
+
+
+- How can you use the staging area to make sure you have one commit per logical change?
+
+You can see if there are any changes from the last commit or/and the working directory, so u can make sure to commit or not.
