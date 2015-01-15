@@ -19,3 +19,7 @@ You can see if there are any changes from the last commit or/and the working dir
 -What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 With branches u can add a new feature, try sth new in the project,  have different teams developing different features and so on.
+
+-How do the diagrams help you visualize the branch structure?
+
+It makes easier to see which branch u are and which ones are reachable.
