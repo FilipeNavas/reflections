@@ -14,3 +14,8 @@ It's a temporary area wheere u put the files to be comitted.
 - How can you use the staging area to make sure you have one commit per logical change?
 
 You can see if there are any changes from the last commit or/and the working directory, so u can make sure to commit or not.
+
+
+-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+With branches u can add a new feature, try sth new in the project,  have different teams developing different features and so on.
