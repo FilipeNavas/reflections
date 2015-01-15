@@ -1,0 +1,5 @@
+#########REFLECTIONS FILE V1##########
+
+- Oi, eu sou o Goku!
+
+Git is just awesome and I'm gonna use it in every project from now.
