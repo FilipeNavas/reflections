@@ -23,3 +23,13 @@ With branches u can add a new feature, try sth new in the project,  have differe
 -How do the diagrams help you visualize the branch structure?
 
 It makes easier to see which branch u are and which ones are reachable.
+
+-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+You have the code from both branches into one. To facilitate the understanding
+
+
+- What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+  
+   It's good do it manually so u can talk to the other developer to keep the changes that must be kept. If it's automatically, u might
+   have merged sth u didnt want to keep, and lost the code u wnanted.
