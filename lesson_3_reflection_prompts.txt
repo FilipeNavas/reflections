@@ -10,3 +10,7 @@
 
   - What is the benefit of having a copy of the last known state of the remote stored locally?
   In case u want to go back to that commit. 
+
+  - How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+    It would be locally, where all the people are together or sth like that. But git and github provides a flexibility to have people all over the world
+    sharing changes in a project, and it is very easy to keep track of versions.
